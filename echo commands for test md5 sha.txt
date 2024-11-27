@@ -1,0 +1,3 @@
+echo -n "Hello, World!" | md5sum
+echo -n "Hello, World!" | sha256sum
+echo -n "Hello, World!" | sha512sum
